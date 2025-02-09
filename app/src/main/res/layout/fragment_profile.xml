@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@color/lightblue"
+    android:background="@color/gray"
     tools:context=".ui.fragment.ProfileFragment">
 
     <!-- Profile Picture -->
     <ImageView
-        android:background="@color/green"
+        android:background="@color/black"
         android:id="@+id/profileImage"
         android:layout_width="100dp"
         android:layout_height="100dp"
@@ -39,7 +39,7 @@
         app:cardElevation="4dp">
 
         <LinearLayout
-            android:background="@color/green"
+            android:background="@color/lightred"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="horizontal"
@@ -68,7 +68,7 @@
         app:cardElevation="4dp">
 
         <LinearLayout
-            android:background="@color/green"
+            android:background="@color/lightred"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="horizontal"
@@ -97,7 +97,7 @@
         app:cardElevation="4dp">
 
         <LinearLayout
-            android:background="@color/green"
+            android:background="@color/lightred"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="horizontal"
