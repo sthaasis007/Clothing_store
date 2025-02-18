@@ -1,4 +1,4 @@
-package com.example.thriftclothing
+package com.example.ClothingStore
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,7 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.thriftclothing.databinding.ActivityRegistrationPageBinding
+import com.example.ClothingStore.databinding.ActivityRegistrationPageBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase

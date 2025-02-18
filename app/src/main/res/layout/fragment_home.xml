@@ -40,14 +40,6 @@
             android:padding="16dp"
             android:gravity="center_horizontal">
 
-            <Button
-                android:id="@+id/btnShoes"
-                android:layout_width="match_parent"
-                android:layout_height="55dp"
-                android:text="Shoes"
-                android:backgroundTint="@color/green"
-                android:textColor="@color/white"
-                android:layout_marginBottom="12dp" />
 
             <Button
                 android:id="@+id/btnJeans"

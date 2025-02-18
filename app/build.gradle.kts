@@ -5,14 +5,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.thriftclothing"
+    namespace = "com.example.ClothingStore"
     compileSdk = 35
 
     buildFeatures{
         viewBinding = true
     }
     defaultConfig {
-        applicationId = "com.example.thriftclothing"
+        applicationId = "com.example.ClothingStore"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

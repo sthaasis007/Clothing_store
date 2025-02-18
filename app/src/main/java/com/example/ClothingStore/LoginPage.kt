@@ -1,4 +1,4 @@
-package com.example.thriftclothing
+package com.example.ClothingStore
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,8 +8,8 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.thriftclothing.databinding.ActivityLoginPageBinding
-import com.example.thriftclothing.ui.activity.DashboardActivity
+import com.example.ClothingStore.databinding.ActivityLoginPageBinding
+import com.example.ClothingStore.ui.activity.DashboardActivity
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginPage : AppCompatActivity() {

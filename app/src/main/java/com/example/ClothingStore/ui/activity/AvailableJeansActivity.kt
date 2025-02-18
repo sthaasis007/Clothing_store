@@ -1,11 +1,11 @@
-package com.example.thriftclothing.ui.activity
+package com.example.ClothingStore.ui.activity
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.thriftclothing.R
+import com.example.ClothingStore.R
 
 class AvailableJeansActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

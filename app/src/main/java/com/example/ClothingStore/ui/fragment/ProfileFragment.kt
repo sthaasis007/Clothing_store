@@ -1,4 +1,4 @@
-package com.example.thriftclothing.ui.fragment
+package com.example.ClothingStore.ui.fragment
 
 import android.app.AlertDialog
 import android.content.Intent
@@ -7,11 +7,10 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.thriftclothing.R
-import com.example.thriftclothing.LoginPage
-import com.example.thriftclothing.ui.activity.AvailableShoesActivity
-import com.example.thriftclothing.ui.activity.AvailableJeansActivity
-import com.example.thriftclothing.ui.activity.AvailableJacketActivity
+import com.example.ClothingStore.R
+import com.example.ClothingStore.LoginPage
+import com.example.ClothingStore.ui.activity.AvailableJeansActivity
+import com.example.ClothingStore.ui.activity.AvailableJacketActivity
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -63,7 +62,6 @@ class ProfileFragment : Fragment() {
                 .setItems(productOptions) { _, which ->
                     val selectedProduct = productOptions[which]
                     val intent = when (selectedProduct) {
-                        "Shoes" -> Intent(activity, AvailableShoesActivity::class.java)
                         "Jeans" -> Intent(activity, AvailableJeansActivity::class.java)
                         "Jacket" -> Intent(activity, AvailableJacketActivity::class.java)
                         else -> null

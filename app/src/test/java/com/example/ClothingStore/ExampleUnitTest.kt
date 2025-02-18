@@ -1,4 +1,4 @@
-package com.example.thriftclothing
+package com.example.ClothingStore
 
 import org.junit.Test
 

@@ -26,7 +26,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Welcome to website of Young Generation Kapan. We are dedicated to providing the best service possible. Our team is passionate about what we do to exceed your expectations. Learn more about our journey and values below."
+            android:text="Welcome to mobile verson of Young Generation Kapan(Y.G.K.). We are dedicated to providing the best service possible. Our team is passionate about what we do to exceed your expectations. Learn more about our journey and values below."
             android:textSize="20sp"
             android:textColor="@android:color/white"
             android:gravity="center"

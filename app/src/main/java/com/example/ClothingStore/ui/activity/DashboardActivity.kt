@@ -1,4 +1,4 @@
-package com.example.thriftclothing.ui.activity
+package com.example.ClothingStore.ui.activity
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -6,10 +6,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
-import com.example.thriftclothing.R
-import com.example.thriftclothing.ui.fragment.AboutFragment
-import com.example.thriftclothing.ui.fragment.HomeFragment
-import com.example.thriftclothing.ui.fragment.ProfileFragment
+import com.example.ClothingStore.R
+import com.example.ClothingStore.ui.fragment.AboutFragment
+import com.example.ClothingStore.ui.fragment.HomeFragment
+import com.example.ClothingStore.ui.fragment.ProfileFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class DashboardActivity : AppCompatActivity() {

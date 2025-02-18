@@ -39,7 +39,7 @@
                 android:id="@+id/productName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Down Jacket"
+                android:text="Jeans Jacket"
                 android:textSize="20sp"
                 android:textColor="#000"
                 android:fontFamily="sans-serif-medium" />
@@ -207,7 +207,7 @@
                 android:id="@+id/productName1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Versity Jacket"
+                android:text="Jeans Half Jacket"
                 android:textSize="20sp"
                 android:textColor="#000"
                 android:fontFamily="sans-serif-medium" />
