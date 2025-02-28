@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821295909337",
+    "project_id": "clothingstore-2a646",
+    "storage_bucket": "clothingstore-2a646.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821295909337:android:8b1d24fc2288a7786bf1c8",
+        "android_client_info": {
+          "package_name": "com.example.ClothingStore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZJ_aMYBJJkVdA0EFCX4nueoeWnBWfCR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

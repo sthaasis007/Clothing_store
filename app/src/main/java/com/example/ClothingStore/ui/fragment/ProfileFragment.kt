@@ -55,7 +55,7 @@ class ProfileFragment : Fragment() {
         val addProductButton = view.findViewById<View>(R.id.settings) // "Add Products" button
 
         addProductButton.setOnClickListener {
-            val productOptions = arrayOf("Shoes", "Jeans", "Jacket")
+            val productOptions = arrayOf( "Jeans", "Jacket")
 
             AlertDialog.Builder(requireContext())
                 .setTitle("Choose Product Type")
